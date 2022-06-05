@@ -1,1 +1,1 @@
-# js-patterns
+# design-patterns
